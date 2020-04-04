@@ -36,3 +36,14 @@ https://login.live.com/oauth20_desktop.srf
 Depois de registrado, copie seu CLIENTE ID
 
 ![CLIENTEID](https://raw.githubusercontent.com/an4kein/redteambrazil/master/Shells/images/copy-id.png?token=AJBHTVKF2R3ZWKXSYKJGF226RD67M)
+
+
+O Segredo do Cliente é o próximo campo exigido pelo Empire. No entanto, ele não é gerado automaticamente, mas pode ser facilmente criado navegando até a guia Certificados e segredos. Uma vez nesta página, selecione Novo Segredo do Cliente para gerar o novo valor.
+
+Novo cliente:
+
+![add_new](https://raw.githubusercontent.com/an4kein/redteambrazil/master/Shells/images/cert_add.png?token=AJBHTVPO3G6Q3S375HH3JQC6RD7SW)
+
+Get key:
+
+![get_key](https://raw.githubusercontent.com/an4kein/redteambrazil/master/Shells/images/key.png?token=AJBHTVNDV3DQ37DCLNC4QA26RD7VW)
