@@ -31,3 +31,8 @@ ADICIONE UMA NOVA APLICACAO
 Add URL para redirecionamento:
 
 https://login.live.com/oauth20_desktop.srf
+
+
+Depois de registrado, copie seu CLIENTE ID
+
+![CLIENTEID](https://raw.githubusercontent.com/an4kein/redteambrazil/master/Shells/images/copy-id.png?token=AJBHTVKF2R3ZWKXSYKJGF226RD67M)
