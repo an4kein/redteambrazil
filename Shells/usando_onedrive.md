@@ -22,4 +22,12 @@ To run the OneDrive listener, type
 
 Acesse: https://portal.azure.com/#blade/Microsoft_AAD_RegisteredApps/ApplicationsListBlade
 
-IMAGE
+Registre um App:
+
+ADICIONE UMA NOVA APLICACAO
+
+![reg_app](https://raw.githubusercontent.com/an4kein/redteambrazil/master/Shells/images/run_application.png?token=AJBHTVLZMNVLV7G3B5OIEXC6RD6MW)
+
+Add URL para redirecionamento:
+
+https://login.live.com/oauth20_desktop.srf
