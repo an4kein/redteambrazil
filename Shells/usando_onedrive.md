@@ -2,6 +2,8 @@ By an4kein
 
 https://www.arcserve.com/insights/office-365-exchange-reality-key-differentiators-udp-6-5-exchange-online-protection/
 
+https://enigma0x3.net/2016/03/15/phishing-with-empire/
+
 Requisitos:
 
 Original Project: https://github.com/EmpireProject/Empire   (Version: 2.5)
