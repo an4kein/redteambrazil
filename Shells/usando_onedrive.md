@@ -9,6 +9,8 @@ Projeto with Fix: https://github.com/BC-SECURITY/Empire/releases (Version: 3.1.3
 
 Create account in OneDrive: https://products.office.com/en/onedrive/online-cloud-storage?rtc=1
 
+https://www.bc-security.org/post/using-the-onedrive-listener-in-empire-3-1-3
+
 
 To run the OneDrive listener, type 
 
